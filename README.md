@@ -50,5 +50,5 @@ Security Engineer roles.
 | [Onchain Threat Detector](https://github.com/Khris8330/Onchain-Threat-detector) | Blockchain transaction threat monitoring |
 
 ## 📫 Let's Connect
-- LinkedIn: https://ng.linkedin.com/in/umezinwa-christian-chiemerie-b7b721243
-- Email: umezinwachristianchiemerie@gmail.com
+- LinkedIn: https://ng.linkedin.com/in/christian-chiemerie
+- Email: christianc-security@gmail.com
