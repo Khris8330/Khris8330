@@ -1,4 +1,4 @@
-# Hi, I'm Christian — Cybersecurity Analyst in Training 👋
+# Hi, I'm Christian - Cybersecurity Analyst in Training 👋
 
 I build Python-based security tools focused on threat detection,
 vulnerability assessment, and security posture analysis.
@@ -6,9 +6,9 @@ Currently sharpening my skills toward SOC Analyst and Junior
 Security Engineer roles.
 
 ## 🛡 What I Build
-- **Security assessment tools** — passive recon, TLS analysis, header inspection
-- **Threat detection systems** — network anomaly detection, log correlation
-- **Web3 security tools** — smart contract analysis, on-chain threat monitoring
+- **Security assessment tools** - passive recon, TLS analysis, header inspection
+- **Threat detection systems** - network anomaly detection, log correlation
+- **Web3 security tools** - smart contract analysis, on-chain threat monitoring
 
 ## 🔧 Tech & Skills
 
